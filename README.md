@@ -21,7 +21,7 @@ Jestem studentem drugiego roku Informatyki na Uniwersytecie Ekonomicznym w Katow
 ### Uplift
 Użyte technologie: HTML, CSS, JavaScript, React, SQL (PostgreSQL), Node.js (Express), AWS
 
-[Uplift](https://github.com/DominikZydek/uplift) jest aplikacją webową umożliwiającą wysyłanie sobie miłych wiadomości. Głównym celem tego projektu było utrwalenie wiedzy na temat Reacta i różnych hooków i wykorzystanie jej w praktyce. Udało mi się również całą aplikację postawić na [serwerze](ec2-16-171-29-224.eu-north-1.compute.amazonaws.com) za pomocą AWS EC2 przy pomocy nginx
+[Uplift](https://github.com/DominikZydek/uplift) jest aplikacją webową umożliwiającą wysyłanie sobie miłych wiadomości. Głównym celem tego projektu było utrwalenie wiedzy na temat Reacta i różnych hooków i wykorzystanie jej w praktyce. Udało mi się również całą aplikację postawić na [serwerze](http://ec2-16-171-29-224.eu-north-1.compute.amazonaws.com) za pomocą AWS EC2 przy pomocy nginx
 
 ### Flip' em
 Użyte technologie: HTML, CSS (Tailwind), JavaScript, React, SQL (PostgreSQL), Node.js (Express)
@@ -79,7 +79,7 @@ I'm a second-year Computer Science student at the University of Economics in Kat
 ### Uplift
 Technologies used: HTML, CSS, JavaScript, React, SQL (PostgreSQL), Node.js (Express), AWS
 
-[Uplift](https://github.com/DominikZydek/uplift) is a web application that allows users to send each other uplifting messages. The main goal of this project was to reinforce my knowledge of React and various hooks and apply it in practice. I also managed to deploy the entire application on a [server](ec2-16-171-29-224.eu-north-1.compute.amazonaws.com) using AWS EC2 with nginx.
+[Uplift](https://github.com/DominikZydek/uplift) is a web application that allows users to send each other uplifting messages. The main goal of this project was to reinforce my knowledge of React and various hooks and apply it in practice. I also managed to deploy the entire application on a [server](http://ec2-16-171-29-224.eu-north-1.compute.amazonaws.com) using AWS EC2 with nginx.
 
 ### Flip' em
 Technologies used: HTML, CSS (Tailwind), JavaScript, React, SQL (PostgreSQL), Node.js (Express)

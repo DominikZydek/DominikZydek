@@ -36,7 +36,7 @@ Użyte technologie: C# (WPF), XAML, SQL (SQLite)
 ### JaCar
 Użyte technologie: HTML, CSS, PHP
 
-[JaCar](https://github.com/DominikZydek/jacar_project) to strona internetowa, którą tworzę obecnie jako projekt zaliczeniowy, ale po zakończeniu planuję ją rozwinąć tak, żeby mogła obsłużyć warszat samochodowy mojego taty.
+[JaCar](https://github.com/DominikZydek/jacar_project) to strona internetowa, którą tworzę obecnie jako projekt zaliczeniowy, ale po zakończeniu planuję ją rozwinąć tak, żeby mogła obsłużyć warszat samochodowy mojego taty. Powstała również wyczerpująca [dokumentacja](https://github.com/DominikZydek/jacar_project/blob/main/dokumentacja.docx).
 
 ### Portfolio
 Użyte technologie: HTML, CSS, JavaScript, Node.js (Express), Jest
@@ -94,7 +94,7 @@ Technologies used: C# (WPF), XAML, SQL (SQLite)
 ### JaCar
 Technologies used: HTML, CSS, PHP
 
-[JaCar](https://github.com/DominikZydek/jacar_project) is a website I'm currently developing as a class project, but I plan to expand it to serve my dad's car workshop after completion.
+[JaCar](https://github.com/DominikZydek/jacar_project) is a website I'm currently developing as a class project, but I plan to expand it to serve my dad's car workshop after completion. A comprehensive [documentation](https://github.com/DominikZydek/jacar_project/blob/main/dokumentacja.docx) has also been produced.
 
 ### Portfolio
 Technologies used: HTML, CSS, JavaScript, Node.js (Express), Jest

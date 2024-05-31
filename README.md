@@ -34,7 +34,7 @@ Użyte technologie: C# (WPF), XAML, SQL (SQLite)
 [LibrApp](https://github.com/DominikZydek/Librapp) jest aplikacją desktopową, która była wykonana na potrzeby projektu zaliczeniowego. Podczas tworzenia LibrApp nauczyłem się pracy grupowej w scrumie. Dokumentacja znajduje się [tutaj](https://dominikzydek.github.io/LibrAppDocs/). Została wykonana również [prezentacja](https://github.com/DominikZydek/DominikZydek/files/14977895/Librapp.pdf).
 
 ### JaCar
-Użyte technologie: HTML, CSS, PHP
+Użyte technologie: HTML, CSS, PHP, SQL (MySQL)
 
 [JaCar](https://github.com/DominikZydek/jacar_project) to strona internetowa, którą tworzę obecnie jako projekt zaliczeniowy, ale po zakończeniu planuję ją rozwinąć tak, żeby mogła obsłużyć warszat samochodowy mojego taty. Powstała również wyczerpująca [dokumentacja](https://github.com/DominikZydek/jacar_project/blob/main/dokumentacja.docx).
 
@@ -92,7 +92,7 @@ Technologies used: C# (WPF), XAML, SQL (SQLite)
 [LibrApp](https://github.com/DominikZydek/Librapp) is a desktop application created for a class project. During the development of LibrApp, I learned about working in a scrum environment. Documentation can be found [here](https://dominikzydek.github.io/LibrAppDocs/). I also prepared a [presentation](https://github.com/DominikZydek/DominikZydek/files/14977895/Librapp.pdf).
 
 ### JaCar
-Technologies used: HTML, CSS, PHP
+Technologies used: HTML, CSS, PHP, SQL (MySQL)
 
 [JaCar](https://github.com/DominikZydek/jacar_project) is a website I'm currently developing as a class project, but I plan to expand it to serve my dad's car workshop after completion. A comprehensive [documentation](https://github.com/DominikZydek/jacar_project/blob/main/dokumentacja.docx) has also been produced.
 

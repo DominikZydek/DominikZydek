@@ -48,6 +48,11 @@ Użyte technologie: Python (pandas, numpy, seaborn, matplotlib, sklearn, tensorf
 
 [Titanic Machine Learning Model](https://gist.github.com/DominikZydek/0abd5e86a33039f4a2770dc47ab5bb44) to model uczenia maszynowego, który analizuje dane pasażerów Titanica, uczy się, a następnie podejmuje decyzję, czy dana osoba przeżyła katastrofę, czy nie. Ten projekt również jest projektem zaliczeniowym, który nauczył mnie podstaw analizy, wizualizacji oraz czyszczenia danych oraz uczenia maszynowego przy pomocy Pythona.
 
+### Pyroklas
+Użyte technologie: C++
+
+[Pyroklas](https://github.com/DominikZydek/Pyroklas) to prosta gra konsolowa napisana w C++. Dzięki temu projektowi zrozumiałem koncepty typowe dla programowania niskopoziomego. Utrwaliłem również wiedzę na temat podstaw programowania. 
+
 <br />
 
 <a id="eng-version" name="eng-version"></a>
@@ -100,3 +105,8 @@ Technologies used: HTML, CSS, JavaScript, Node.js (Express), Jest
 Technologies used: Python (pandas, numpy, seaborn, matplotlib, sklearn, tensorflow)
 
 [Titanic Machine Learning Model](https://gist.github.com/DominikZydek/0abd5e86a33039f4a2770dc47ab5bb44) is a machine learning model that analyzes Titanic passenger data, learns from it, and then predicts whether a given person survived the disaster or not. This project is also a class assignment, which taught me the basics of data analysis, visualization, data cleaning, and machine learning using Python.
+
+### Pyroklas
+Technologies used: C++
+
+[Pyroklas](https://github.com/DominikZydek/Pyroklas) is a simple console game written in C++. Thanks to this project, I understood the concepts typical of low-level programming. I also consolidated my knowledge of programming basics.

@@ -23,6 +23,11 @@ Użyte technologie: HTML, CSS, JavaScript, React, SQL (PostgreSQL), Node.js (Exp
 
 [Uplift](https://github.com/DominikZydek/uplift) jest aplikacją webową umożliwiającą wysyłanie sobie miłych wiadomości. Głównym celem tego projektu było utrwalenie wiedzy na temat Reacta i różnych hooków i wykorzystanie jej w praktyce. Udało mi się również całą aplikację postawić na [serwerze](http://ec2-16-171-29-224.eu-north-1.compute.amazonaws.com) za pomocą AWS EC2 przy pomocy nginx
 
+### Spotify Playlist Assistant
+Użyte technologie: HTML, CSS (Tailwind), JavaScript, React, Node.js (Express), Spotify API
+
+[Spotify Playlist Assistant](https://github.com/DominikZydek/Spotify-Playlist-Assistant) to aplikacja webowa, służąca do wykonywania różnych operacji na playlistach Spotify (usuwanie duplikatów utworów, sortowanie, składanie kilku playlist w jedną, pobieranie). Aplikacja jest w trakcie tworzenia. W tym projekcie używam nowych dla mnie części Reacta, takich jak useContext.
+
 ### Flip' em
 Użyte technologie: HTML, CSS (Tailwind), JavaScript, React, SQL (PostgreSQL), Node.js (Express)
 
@@ -80,6 +85,13 @@ I'm a second-year Computer Science student at the University of Economics in Kat
 Technologies used: HTML, CSS, JavaScript, React, SQL (PostgreSQL), Node.js (Express), AWS
 
 [Uplift](https://github.com/DominikZydek/uplift) is a web application that allows users to send each other uplifting messages. The main goal of this project was to reinforce my knowledge of React and various hooks and apply it in practice. I also managed to deploy the entire application on a [server](http://ec2-16-171-29-224.eu-north-1.compute.amazonaws.com) using AWS EC2 with nginx.
+
+### Spotify Playlist Assistant
+Technologies used: HTML, CSS (Tailwind), JavaScript, React, Node.js (Express), Spotify API.
+
+[Spotify Playlist Assistant](https://github.com/DominikZydek/Spotify-Playlist-Assistant) is a web application used to perform various operations on Spotify playlists (removing duplicate songs, sorting, assembling several playlists into one, downloading). The application is under development. In this project I am using parts of React that are new to me, such as useContext.
+
+Translated with DeepL.com (free version)
 
 ### Flip' em
 Technologies used: HTML, CSS (Tailwind), JavaScript, React, SQL (PostgreSQL), Node.js (Express)

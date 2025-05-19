@@ -41,10 +41,10 @@ AWS Academy Graduate - AWS Academy Cloud Foundations [Zobacz certyfikat](HTTPS:/
 
 ## Projekty 🚀
 
-### System B2E
+### hrHelper
 Użyte technologie: Laravel, SvelteKit, GraphQL, PostgreSQL, Pusher, Docker, AWS
 
-System B2E to kompleksowy system zaprojektowany do cyfryzacji procesów HR, automatyzacji obiegu dokumentów i przyspieszenia komunikacji wewnętrznej przy jednoczesnym zachowaniu zgodności z wymogami prawnymi. Stworzyłem kompletną architekturę fullstack z integracją GraphQL, znacząco usprawniającą komunikację między warstwami. Wdrożyłem również system powiadomień push w czasie rzeczywistym za pomocą WebSocketów (Pusher) oraz dokonałem deploymentu aplikacji na serwerach AWS EC2 z wykorzystaniem Dockera i Nginx, zapewniając skalowalność i wydajność.
+[hrHelper](https://github.com/DominikZydek/hrHelper) to kompleksowy system zaprojektowany do cyfryzacji procesów HR, automatyzacji obiegu dokumentów i przyspieszenia komunikacji wewnętrznej przy jednoczesnym zachowaniu zgodności z wymogami prawnymi. Stworzyłem kompletną architekturę fullstack z integracją GraphQL, znacząco usprawniającą komunikację między warstwami. Wdrożyłem również system powiadomień push w czasie rzeczywistym za pomocą WebSocketów (Pusher) oraz dokonałem deploymentu aplikacji na serwerach AWS EC2 z wykorzystaniem Dockera i Nginx, zapewniając skalowalność i wydajność.
 
 ### Uplift
 Użyte technologie: HTML, CSS, JavaScript, React, SQL (PostgreSQL), Node.js (Express), AWS
@@ -107,10 +107,10 @@ AWS Academy Graduate - AWS Academy Cloud Foundations [View certificate](HTTPS://
 
 ## Projects 🚀
 
-### B2E System
+### hrHelper
 Technologies used: Laravel, SvelteKit, GraphQL, PostgreSQL, Pusher, Docker, AWS
 
-The B2E System is a comprehensive system designed to digitize HR processes, automate document flow, and accelerate internal communication while maintaining compliance with legal requirements. I created a complete fullstack architecture with GraphQL integration, significantly improving communication between layers. I also implemented a real-time push notification system using WebSockets (Pusher) and deployed the application on AWS EC2 servers using Docker and Nginx, ensuring scalability and performance.
+[hrHelper](https://github.com/DominikZydek/hrHelper) is a comprehensive system designed to digitize HR processes, automate document flow, and accelerate internal communication while maintaining compliance with legal requirements. I created a complete fullstack architecture with GraphQL integration, significantly improving communication between layers. I also implemented a real-time push notification system using WebSockets (Pusher) and deployed the application on AWS EC2 servers using Docker and Nginx, ensuring scalability and performance.
 
 ### Uplift
 Technologies used: HTML, CSS, JavaScript, React, SQL (PostgreSQL), Node.js (Express), AWS

@@ -16,6 +16,7 @@ Jestem studentem trzeciego roku Informatyki na Uniwersytecie Ekonomicznym w Kato
 - JavaScript
 - React.js
 - SvelteKit
+- Next.js
 
 ### Back-end
 
@@ -40,40 +41,25 @@ AWS Academy Graduate - AWS Academy Cloud Foundations [Zobacz certyfikat](HTTPS:/
 
 ## Projekty 🚀
 
+### System B2E
+Użyte technologie: Laravel, SvelteKit, GraphQL, PostgreSQL, Pusher, Docker, AWS
+
+System B2E to kompleksowy system zaprojektowany do cyfryzacji procesów HR, automatyzacji obiegu dokumentów i przyspieszenia komunikacji wewnętrznej przy jednoczesnym zachowaniu zgodności z wymogami prawnymi. Stworzyłem kompletną architekturę fullstack z integracją GraphQL, znacząco usprawniającą komunikację między warstwami. Wdrożyłem również system powiadomień push w czasie rzeczywistym za pomocą WebSocketów (Pusher) oraz dokonałem deploymentu aplikacji na serwerach AWS EC2 z wykorzystaniem Dockera i Nginx, zapewniając skalowalność i wydajność.
+
 ### Uplift
 Użyte technologie: HTML, CSS, JavaScript, React, SQL (PostgreSQL), Node.js (Express), AWS
 
-[Uplift](https://github.com/DominikZydek/uplift) jest aplikacją webową umożliwiającą wysyłanie sobie miłych wiadomości. Głównym celem tego projektu było utrwalenie wiedzy na temat Reacta i różnych hooków i wykorzystanie jej w praktyce. Udało mi się również całą aplikację postawić na serwerze za pomocą AWS EC2 przy pomocy nginx.
+[Uplift](https://github.com/DominikZydek/uplift) to platforma promująca pozytywną komunikację i dobre samopoczucie użytkowników poprzez ułatwianie dzielenia się konstruktywnymi i motywującymi wiadomościami. Aplikacja została wdrożona na serwerze AWS EC2 z konfiguracją Nginx jako reverse proxy.
+
+### ESC Ranker
+Użyte technologie: React, TailwindCSS, Google Apps Script
+
+[ESC Ranker](https://github.com/DominikZydek/ESC-Ranker) to interaktywna aplikacja umożliwiająca użytkownikom ocenianie i tworzenie własnych rankingów piosenek z konkursu Eurowizji. Wykorzystałem Google Apps Script do zbierania danych o użytkownikach, co pozwoliło mi odnotować około 50 aktywnych użytkowników w szczycie podczas finału Eurowizji. Aplikacja jest dostępna pod adresem [esc-ranker.vercel.app](https://esc-ranker.vercel.app).
 
 ### Subscription Manager
-Użyte technologie: Kotlin
+Użyte technologie: Kotlin, Room
 
-[Subscription Manager](https://github.com/DominikZydek/SubscriptionManager) to aplikacja mobilna, powstała jako projekt zaliczeniowy. Umożliwia monitorowanie wydatków za serwisy streamingowe, które większość z nas ma. Projekt miał na celu poznanie podstaw tworzenia aplikacji mobilnych w Kotlinie, korzystania z Room do przechowywania danych i ogólnie zapoznanie się ze środowiskiem deweloperskim w Androidzie.
-
-### Spotify Playlist Assistant
-Użyte technologie: HTML, CSS (Tailwind), JavaScript, React, Node.js (Express), Spotify API
-
-[Spotify Playlist Assistant](https://github.com/DominikZydek/Spotify-Playlist-Assistant) to aplikacja webowa, służąca do wykonywania różnych operacji na playlistach Spotify (usuwanie duplikatów utworów, sortowanie, składanie kilku playlist w jedną, pobieranie). Aplikacja jest w trakcie tworzenia. W tym projekcie używam nowych dla mnie części Reacta, takich jak useContext.
-
-### Flip' em
-Użyte technologie: HTML, CSS (Tailwind), JavaScript, React, SQL (PostgreSQL), Node.js (Express)
-
-[Flip' em](https://github.com/DominikZydek/flip-em) jest aplikacją webową służącą do tworzenia zestawów fiszek i nauki. Aplikacja jest w trakcie tworzenia. W tym projekcie po raz pierwszy używam TailwindCSS zamiast czystego CSS i utrwalam podstawy Reacta.
-
-### LibrApp
-Użyte technologie: C# (WPF), XAML, SQL (SQLite)
-
-[LibrApp](https://github.com/DominikZydek/Librapp) jest aplikacją desktopową, która była wykonana na potrzeby projektu zaliczeniowego. Podczas tworzenia LibrApp nauczyłem się pracy grupowej w scrumie. Dokumentacja znajduje się [tutaj](https://dominikzydek.github.io/LibrAppDocs/). Została wykonana również [prezentacja](https://github.com/DominikZydek/DominikZydek/files/14977895/Librapp.pdf).
-
-### JaCar
-Użyte technologie: HTML, CSS, PHP, SQL (MySQL)
-
-[JaCar](https://github.com/DominikZydek/jacar_project) to strona internetowa, którą tworzę obecnie jako projekt zaliczeniowy, ale po zakończeniu planuję ją rozwinąć tak, żeby mogła obsłużyć warszat samochodowy mojego taty. Powstała również wyczerpująca [dokumentacja](https://github.com/DominikZydek/jacar_project/blob/main/dokumentacja.docx).
-
-### Portfolio
-Użyte technologie: HTML, CSS, JavaScript, Node.js (Express), Jest
-
-[Portfolio](https://github.com/ArnikaZ/Portfolio_project) to aplikacja webowa, która została stworzona na potrzeby projektu zaliczeniowego. Tworze ją wraz z [@ArnikaZ](https://github.com/ArnikaZ). Projekt ten jest również w trakcie tworzenia, a jego głównym celem jest nauka testowania oprogramowania.
+[Subscription Manager](https://github.com/DominikZydek/SubscriptionManager) to aplikacja mobilna adresująca problem niekontrolowanych wydatków na serwisy streamingowe poprzez umożliwienie lepszego monitorowania i zarządzania subskrypcjami. Zaimplementowałem lokalną bazę danych do przechowywania informacji o subskrypcjach.
 
 <br />
 
@@ -96,6 +82,7 @@ I'm a third-year Computer Science student at the University of Economics in Kato
 - JavaScript
 - React.js
 - SvelteKit
+- Next.js
 
 ### Back-end
 
@@ -120,39 +107,22 @@ AWS Academy Graduate - AWS Academy Cloud Foundations [View certificate](HTTPS://
 
 ## Projects 🚀
 
+### B2E System
+Technologies used: Laravel, SvelteKit, GraphQL, PostgreSQL, Pusher, Docker, AWS
+
+The B2E System is a comprehensive system designed to digitize HR processes, automate document flow, and accelerate internal communication while maintaining compliance with legal requirements. I created a complete fullstack architecture with GraphQL integration, significantly improving communication between layers. I also implemented a real-time push notification system using WebSockets (Pusher) and deployed the application on AWS EC2 servers using Docker and Nginx, ensuring scalability and performance.
+
 ### Uplift
 Technologies used: HTML, CSS, JavaScript, React, SQL (PostgreSQL), Node.js (Express), AWS
 
-[Uplift](https://github.com/DominikZydek/uplift) is a web application that allows users to send each other uplifting messages. The main goal of this project was to reinforce my knowledge of React and various hooks and apply it in practice. I also managed to deploy the entire application on a server using AWS EC2 with nginx.
+[Uplift](https://github.com/DominikZydek/uplift) is a platform that promotes positive communication and user well-being by facilitating the sharing of constructive and motivating messages. The application was deployed on an AWS EC2 server with Nginx configuration as a reverse proxy.
+
+### ESC Ranker
+Technologies used: React, TailwindCSS, Google Apps Script
+
+[ESC Ranker](https://github.com/DominikZydek/ESC-Ranker) is an interactive application that allows users to rate and create their own rankings of Eurovision Song Contest songs. I used Google Apps Script to collect user data, which allowed me to record about 50 active users at peak during the Eurovision final. The application is available at [esc-ranker.vercel.app](https://esc-ranker.vercel.app).
 
 ### Subscription Manager
-Technologies used: Kotlin
+Technologies used: Kotlin, Room
 
-[Subscription Manager](https://github.com/DominikZydek/SubscriptionManager) is a mobile application created as a class project. It allows users to monitor their expenses for streaming services that most of us have. The project aimed to learn the basics of mobile application development in Kotlin, using Room for data storage, and generally familiarizing myself with the Android development environment.
-
-### Spotify Playlist Assistant
-Technologies used: HTML, CSS (Tailwind), JavaScript, React, Node.js (Express), Spotify API.
-
-[Spotify Playlist Assistant](https://github.com/DominikZydek/Spotify-Playlist-Assistant) is a web application used to perform various operations on Spotify playlists (removing duplicate songs, sorting, assembling several playlists into one, downloading). The application is under development. In this project I am using parts of React that are new to me, such as useContext.
-
-Translated with DeepL.com (free version)
-
-### Flip' em
-Technologies used: HTML, CSS (Tailwind), JavaScript, React, SQL (PostgreSQL), Node.js (Express)
-
-[Flip' em](https://github.com/DominikZydek/flip-em) is a web application for creating flashcard sets and studying. The application is a work in progress. In this project, I'm using TailwindCSS instead of pure CSS for the first time and solidifying my knowledge of React basics.
-
-### LibrApp
-Technologies used: C# (WPF), XAML, SQL (SQLite)
-
-[LibrApp](https://github.com/DominikZydek/Librapp) is a desktop application created for a class project. During the development of LibrApp, I learned about working in a scrum environment. Documentation can be found [here](https://dominikzydek.github.io/LibrAppDocs/). I also prepared a [presentation](https://github.com/DominikZydek/DominikZydek/files/14977895/Librapp.pdf).
-
-### JaCar
-Technologies used: HTML, CSS, PHP, SQL (MySQL)
-
-[JaCar](https://github.com/DominikZydek/jacar_project) is a website I'm currently developing as a class project, but I plan to expand it to serve my dad's car workshop after completion. A comprehensive [documentation](https://github.com/DominikZydek/jacar_project/blob/main/dokumentacja.docx) has also been produced.
-
-### Portfolio
-Technologies used: HTML, CSS, JavaScript, Node.js (Express), Jest
-
-[Portfolio](https://github.com/ArnikaZ/Portfolio_project) is a web application created for a class project. I'm working on it together with [@ArnikaZ](https://github.com/ArnikaZ). This project is still in progress, and its main goal is learning software testing.
+[Subscription Manager](https://github.com/DominikZydek/SubscriptionManager) is a mobile application addressing the problem of uncontrolled spending on streaming services by enabling better monitoring and management of subscriptions. I implemented a local database to store subscription information.
